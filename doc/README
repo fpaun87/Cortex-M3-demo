@@ -1,0 +1,2 @@
+This is my first project involving an ARM processor. It is based on a 
+QEMU emulation of a  Texas Instruments Stellaris board equiped  with a Cortex-M3 cpu. The final purpose of this project is to print a string on a serial port.
